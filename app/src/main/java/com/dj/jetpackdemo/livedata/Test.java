@@ -7,6 +7,6 @@ package com.dj.jetpackdemo.livedata;
  */
 class Test {
     public void test(){
-        
+        //哈哈
     }
 }
