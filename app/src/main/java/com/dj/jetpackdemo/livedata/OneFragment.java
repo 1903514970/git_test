@@ -32,6 +32,7 @@ public class OneFragment extends Fragment {
         view.findViewById(R.id.change_btn).setOnClickListener(v->{
             liveData.setValue((int) (Math.random()*1000));
         });
+        //哈哈
         liveData.observe(getActivity(),integer -> tv.setText("值："+integer));
         return view;
     }
