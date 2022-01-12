@@ -8,6 +8,6 @@ package com.dj.jetpackdemo.livedata;
 class Test {
     public void test(){
         //哈哈
-        //add branch_dev addaffa
+        //add branch_dev addaffa 解决后
     }
 }
