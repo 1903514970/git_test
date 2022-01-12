@@ -8,6 +8,7 @@ package com.dj.jetpackdemo.livedata;
 class Test {
     public void test(){
         //哈哈
-        //add branch_dev sdfsfsdf 
+        //add branch_dev sdfsfsdf
+        //add meger
     }
 }
