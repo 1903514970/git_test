@@ -7,7 +7,7 @@ package com.dj.jetpackdemo.livedata;
  */
 class Test {
     public void test(){
-        //哈哈
+        //哈哈avavav
         //add branch_dev addaffa 解决后
         //add merge
         //sdfasdf
