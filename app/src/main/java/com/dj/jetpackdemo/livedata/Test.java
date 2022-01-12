@@ -6,4 +6,7 @@ package com.dj.jetpackdemo.livedata;
  * Description:
  */
 class Test {
+    public void test(){
+        
+    }
 }
